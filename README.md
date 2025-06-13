@@ -1,6 +1,3 @@
-# Korean_Catholic
-It is a Korean Catholic LLM project
-
 # Korean Catholic RAG System (가톨릭 문서 기반 RAG 시스템)
 
 ## 📌 개요
